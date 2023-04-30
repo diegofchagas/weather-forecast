@@ -7,7 +7,7 @@ function App() {
   const [dados, setDados] = useState(null);
   const [input, setInput] = useState("");
 
-  const keyDiego = "044442cd4964c734611510d3b744075b";
+  const keyDiego = "";
 
   const search = async () => {
     await axios
